@@ -1,4 +1,5 @@
 What is SkyWatch?
+
 SkyWatch is a real-time weather web application that I built to give users a beautiful and accurate way to check the weather for any city in the world. Instead of opening a cluttered weather website filled with ads and unnecessary information, SkyWatch gives you exactly what you need — current temperature, hourly forecast, and a 5-day outlook — all in a clean, animated interface that feels premium and modern. The goal was simple: make checking the weather feel enjoyable, not boring.
 
 Why I Built This
